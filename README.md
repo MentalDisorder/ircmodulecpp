@@ -1,4 +1,4 @@
 ircmodulecpp
 ============
 
-Full C++ Class wrapper for libirc, ideal startingpoint for irc applications like clients and bots.
+Full C++ Class wrapper for libirc, ideal starting point for irc applications like clients and bots.
